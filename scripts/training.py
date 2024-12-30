@@ -92,4 +92,4 @@ def save(results, model_name):
     names = ['losses_train', 'accus_train', 'losses_valid', 'accus_valid', 'runtime']
     
     for result, name in zip(results, names):
-        pd.DataFrame(result).to_csv(f"{name}_{model_name}.csv")
+        pd.DataFrame(result).to_csv(f"{name}_{model_name}.csv", index=False)
