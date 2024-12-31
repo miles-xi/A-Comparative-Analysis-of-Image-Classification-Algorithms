@@ -1,6 +1,6 @@
 # A-Comparative-Analysis-of-Image-Classification-Algorithms
 
-In this project I
+In this project, I
 
 •	Designed and trained two custom Convolutional Neural Networks (CNN) for benchmarking alongside ResNet18 and EffcientNet-B0 on 10K+ butterfly and moth images
 
