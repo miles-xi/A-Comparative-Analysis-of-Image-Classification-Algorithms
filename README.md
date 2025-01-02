@@ -9,3 +9,8 @@ In this project, I
 •	Visualized training loss and validation accuracy across epochs, and average runtime per epoch, revealing the effect of different model architectures and configurations on classification performance and efficiency
 
 Please refer to 'analyses.ipynb' for analyses and findings.
+
+### Main results
+![image](https://github.com/user-attachments/assets/f45e4d42-89d0-4646-b616-14453c855ab9)
+
+![image](https://github.com/user-attachments/assets/d0b7bb8b-59a8-41f2-b31b-bc4fc1e558a4)
