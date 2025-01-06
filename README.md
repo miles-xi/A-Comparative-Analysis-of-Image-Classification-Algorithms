@@ -11,6 +11,7 @@ In this project, I
 Please refer to 'analyses.ipynb' for analyses and findings.
 
 ### Main results
-![image](https://github.com/user-attachments/assets/f45e4d42-89d0-4646-b616-14453c855ab9)
+![image](https://github.com/user-attachments/assets/38ff631a-97f8-474f-8fca-babab387cfa6)
 
-![image](https://github.com/user-attachments/assets/668decff-2aef-4c2c-a199-7b89ac7f7ead)
+![image](https://github.com/user-attachments/assets/1fcdd37e-b9b0-4646-934b-aa5a4bffc175)
+
