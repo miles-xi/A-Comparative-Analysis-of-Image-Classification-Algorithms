@@ -2,11 +2,11 @@
 
 In this project, I
 
-•	Designed and trained two custom Convolutional Neural Networks (CNN) for benchmarking alongside ResNet18 and EffcientNet-B0 on 10K+ butterfly and moth images
+•	Built a modular ML pipeline to preprocess 10K+ images, train CNN models, and evaluate model performance 
 
-•	Conducted controlled experiments by adjusting the hyperparameters (batch size and learning rate) and applying image preprocessing techniques (data augmentation); created reusable Python modules to streamline the workflow
+•	Conducted controlled experiments with various model architectures (custom networks, ResNet18, and EffcientNet-B0), tuning hyperparameters (batch size, learning rate), and applying image preprocessing techniques (data augmentation)
 
-•	Visualized training loss and validation accuracy across epochs, and average runtime per epoch, revealing the effect of different model architectures and configurations on classification performance and efficiency
+•	Visualized training loss and validation accuracy (with 95% confidence interval) for the final epoch, and average runtime per epoch, revealing the effect of different model architectures and configurations on classification performance and efficiency
 
 Please refer to 'analyses.ipynb' for analyses and findings.
 
@@ -15,6 +15,6 @@ Please refer to 'analyses.ipynb' for analyses and findings.
 
 ![image](https://github.com/user-attachments/assets/787e7098-19c3-4b10-9e22-7d67f6f55445)
 
-![image](https://github.com/user-attachments/assets/3b13ea32-e67d-4321-b613-8c05686eb69a)
+![image](https://github.com/user-attachments/assets/332c8d41-a6c3-49d3-b4b8-d61041da19a8)
 
 
