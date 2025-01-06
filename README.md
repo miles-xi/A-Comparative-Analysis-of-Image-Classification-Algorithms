@@ -13,5 +13,5 @@ Please refer to 'analyses.ipynb' for analyses and findings.
 ### Main results
 ![image](https://github.com/user-attachments/assets/38ff631a-97f8-474f-8fca-babab387cfa6)
 
-![image](https://github.com/user-attachments/assets/1fcdd37e-b9b0-4646-934b-aa5a4bffc175)
+![image](https://github.com/user-attachments/assets/787e7098-19c3-4b10-9e22-7d67f6f55445)
 
