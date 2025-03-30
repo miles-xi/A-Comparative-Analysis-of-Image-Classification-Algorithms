@@ -1,6 +1,6 @@
 # A-Comparative-Analysis-of-Image-Classification-Algorithms
 
-In this project, I
+Main steps of this project
 
 •	Built a modular ML pipeline to preprocess 10K+ images, train CNN models, and evaluate model performance 
 
